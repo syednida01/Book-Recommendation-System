@@ -173,5 +173,7 @@ If Streamlit is not recognized:
 ## 👤 Author
 
   **Syed Nida Ali**
+  
   Computer Science Graduate
+  
   Machine Learning & Data Enthusiast
