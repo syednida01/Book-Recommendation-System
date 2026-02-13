@@ -170,8 +170,8 @@ If Streamlit is not recognized:
 
   This Book Recommendation System demonstrates how collaborative filtering can be used to generate personalized recommendations efficiently. It provides a strong foundation for building advanced recommendation engines used by platforms like Amazon and Goodreads.
 
-**👤 Author**
+## 👤 Author
 
-Syed Nida Ali
-Computer Science Graduate
-Machine Learning & Data Enthusiast
+  **Syed Nida Ali**
+  Computer Science Graduate
+  Machine Learning & Data Enthusiast
